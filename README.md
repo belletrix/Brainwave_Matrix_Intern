@@ -1,4 +1,3 @@
-Phishing Link Scanner
 Basic Phishing Link Scanner (No External Libraries)
 
 Introduction
